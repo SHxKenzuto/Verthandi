@@ -59,7 +59,7 @@ async def on_command_error(ctx,error):
 	if isinstance(error,MissingRequiredArgument):
 		await ctx.send("This command needs an argument")
   
-bot.run("ODkzMTk5MzAxMTIyMDcyNTk4.YVX-rA.qvcHtySqDuvx9ODwoL_eRzB0b9g")
+bot.run("")
 
 print("Verthandi Bot Stopped")
 
